@@ -10,6 +10,11 @@ A React-based todo application that allows users to manage personal and professi
 - Responsive Material UI design
 - Integration with [FastAPI backend](https://github.com/EstebanGZam/to-do-back)
 
+## Demo
+
+![Screenshot of the Todo App](public/app-screenshot-1.png)
+![Screenshot of the Todo App](public/app-screenshot-2.png)
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
